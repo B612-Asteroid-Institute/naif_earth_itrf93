@@ -14,7 +14,7 @@ installable via `pip`.
 
 ## Installation
 
-The latest version of the file can be install via pip:  
+The latest version of the file can be installed via pip:  
 `pip install naif-earth-itrf93`
 
 ## Usage
